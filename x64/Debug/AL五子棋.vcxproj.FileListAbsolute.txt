@@ -1,0 +1,2 @@
+E:\GithubRepositories\Gobang\AL五子棋\x64\Debug\AI五子棋.exe
+D:\for_study\code_source\vs_code\Gobang\AL五子棋\x64\Debug\AI五子棋.exe
